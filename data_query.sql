@@ -1,0 +1,1 @@
+CREATE INDEX animal_idx ON visits (animal_id);
