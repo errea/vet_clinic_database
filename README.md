@@ -56,8 +56,6 @@ To get a local copy up and running follow these simple example steps:
 
 - On the project, GitHub page, navigate to the [main page of the repository](https://github.com/errea/vet_clinic_database)
 
-- Click on a button named `code`
-
 - Copy the project URL as displayed on HTTPS tab
 
 - If you're running Windows Operating System, open your command prompt. On Linux, Open your terminal
@@ -66,7 +64,7 @@ To get a local copy up and running follow these simple example steps:
 
 - Type `git clone`, and then paste the URL you copied in Step 3.<br>
 
-  `$ git clone https://github.com/mrigorir/vet-clinic-database` <em>Press Enter key</em><br>
+  `$ git clone https://github.com/errea/vet_clinic_database.git` <em>Press Enter key</em><br>
 
 - Your local copy will be created.
 
